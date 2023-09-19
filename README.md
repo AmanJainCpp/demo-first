@@ -1,5 +1,5 @@
 # demo-first
 First Repository
 <br>
-
-<h1>Author- AMAN JAIN</h1>
+<hr>
+<h4>Author- AMAN JAIN</h4>
